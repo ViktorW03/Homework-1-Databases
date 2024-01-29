@@ -2,13 +2,12 @@
 -- Student names:
 
 -- A. How much does the most expensive equipment cost? Return only the price.
--- Explanation: 
-
-
+250000
+-- Explanation: Simply uses the max func on the Equipment table
 
 -- B. 792 members have started the gym in April (of any year). How many members have started the gym in January (of any year)?
--- Explanation: 
 
+-- Explanation: 899 Used the EXTRACT fucntion so it knows what month to extract, at first i tried to us beetween then MONTH wich i learned is not for PostgreSQL
 
 
 -- C. 154 classes were held with ‘burn’ somewhere in their type name. How many classes were held that 
