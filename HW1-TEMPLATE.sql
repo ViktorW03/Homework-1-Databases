@@ -14,7 +14,8 @@
 -- have ‘fit’ somewhere in their type name? (Note that your query should be case-insensitive, 
 -- i.e. classes with ‘fiT’ and ‘Fit’ in their type name should also be counted).
 -- Explanation: 
-
+    There had to be used 2 querys where one we find out about which type is the 'fit' type, and then we run another query in the 
+    class table to see how many those types of classes where dated.
 
 
 -- D. How many different instructors have led at least one class in which a member that they have in personal training attended?
