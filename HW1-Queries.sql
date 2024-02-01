@@ -9,6 +9,11 @@ WHERE EXTRACT(MONTH FROM start_date) = 1;
 SELECT * FROM type WHERE name like '%fit%' OR name like 'fit%' OR name like '%Fit' or name like '%fiT%';
 select * from class where tid='8' or tid = '14' or tid = '15';
 -- D
+SELECT COUNT(DISTINCT Class.IID)
+FROM Class
+JOIN Attends ON Class.ID = Attends.CID
+JOIN Member ON Attends.MID = Member.ID
+WHERE Class.IID = Member.IID;
 -- E --
 SELECT Type.name, ROUND(AVG(Attends.rating)) AS "Average Rating"
 FROM Type

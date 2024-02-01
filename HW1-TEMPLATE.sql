@@ -5,21 +5,22 @@
 250000
 -- Explanation: Simply uses the max func on the Equipment table
 
--- B. 792 members have started the gym in April (of any year). How many members have started the gym in January (of any year)?
+-- B. 792 members have started the gym in April (of any year). How many members have started the gym in January (of any year)? 899
 
--- Explanation: 899 Used the EXTRACT fucntion so it knows what month to extract, at first i tried to us beetween then MONTH wich i learned is not for PostgreSQL
+-- Explanation: Used the EXTRACT fucntion so it knows what month to extract, at first i tried to us beetween then MONTH wich i learned is not for PostgreSQL
 
 
 -- C. 154 classes were held with ‘burn’ somewhere in their type name. How many classes were held that 
 -- have ‘fit’ somewhere in their type name? (Note that your query should be case-insensitive, 
 -- i.e. classes with ‘fiT’ and ‘Fit’ in their type name should also be counted).
 -- Explanation: 
-    There had to be used 2 querys where one we find out about which type is the 'fit' type, and then we run another query in the 
-    class table to see how many those types of classes where dated.
+--There had to be used 2 querys where one we find out about which type is the 'fit' type, and then we run another query in the class table to see how many those types of classes where dated.
 
 
 -- D. How many different instructors have led at least one class in which a member that they have in personal training attended?
--- Explanation: 
+-- ANSWER = 52
+
+-- Explanation: I joined the Class, Attends and Members tables because i need the instructors, attendees, and if the instructors have taught the attendees in personal training. Comparing instructors leading classes in (Class) and instructors in Member
 
 
 
