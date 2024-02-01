@@ -14,4 +14,17 @@ select * from class where tid='8' or tid = '14' or tid = '15';
 -- G
 -- H
 -- I
--- J
+-- J --
+-- All members --
+SELECT Member.ID, Member.name, MAX(Class.minutes) AS total_time
+FROM Class
+INNER JOIN Member ON Class.ID = Member.ID
+GROUP BY Member.ID, Member.name
+ORDER BY total_time DESC
+-- All 90 min members --
+SELECT Member.ID, Member.name, MAX(Class.minutes) AS total_time
+FROM Class
+INNER JOIN Member ON Class.ID = Member.ID
+WHERE Class.minutes = 90
+GROUP BY Member.ID, Member.name
+ORDER BY total_time DESC;
