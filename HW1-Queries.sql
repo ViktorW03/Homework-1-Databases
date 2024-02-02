@@ -29,14 +29,24 @@ LEFT JOIN Attends ON Member.ID = Attends.MID
 WHERE Attends.MID IS NULL
 AND IID IS NULL;
 -- G
-
 SELECT instructor.id, COUNT(*) as id_count
 FROM instructor
 JOIN class ON class.iid = instructor.id
 GROUP BY instructor.id
 HAVING COUNT(*) > 14;
 
+
 -- H
+-- For how many members is it true that there exists at least one other member with the same start date and quit date as them? 
+-- (Note that if that is true for John and Mary, they should be counted as two results.
+-- Note also that two people that have not quit cannot be considered as having the same quit date.)
+select start_date,quit_date, count(*) as counting 
+from (select start_date, quit_date from member 
+where quit_date is NOT null)
+ as subquery 
+
+group by start_date,quit_date
+having count(*)>1;
 -- I
 SELECT COUNT(DISTINCT Class.ID)
 FROM Class
@@ -46,7 +56,6 @@ LEFT JOIN Attends ON Class.ID = Attends.CID
 WHERE Gym.address Like '%Reykjavik%'
 AND Type.capacity in (30, 40)
 AND (SELECT COUNT(*) FROM Attends WHERE Attends.CID = Class.ID) < Type.capacity;
-
 
 -- J
 -- All members --
