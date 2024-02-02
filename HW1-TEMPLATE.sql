@@ -36,7 +36,8 @@
 
 
 -- G. 43 instructors have led 15 or more classes. How many instructors have led 10 or more classes?
--- Explanation: 
+-- Explanation: joined instructor and class together, where there we can find out
+-- how many times the specific IID(instructor id) has appeard.
 
 
 

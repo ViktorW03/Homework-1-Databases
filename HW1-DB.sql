@@ -59,7 +59,7 @@ CREATE TABLE Equipment (
 
 CREATE TABLE Class (
     ID INT,
-    IID INT NOT NULL REFERENCES Instructor(ID),  -- Leads relation
+    IID INT NOT NULL REFERENCES Instructor(ID),  -- Leads relation instructor
     TID INT NOT NULL REFERENCES Type(ID),        -- Is of relation
     GID INT NOT NULL REFERENCES Gym(ID),         -- Is at relation
     date DATE NOT NULL,

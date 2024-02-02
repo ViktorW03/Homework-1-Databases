@@ -29,6 +29,13 @@ LEFT JOIN Attends ON Member.ID = Attends.MID
 WHERE Attends.MID IS NULL
 AND IID IS NULL;
 -- G
+
+SELECT instructor.id, COUNT(*) as id_count
+FROM instructor
+JOIN class ON class.iid = instructor.id
+GROUP BY instructor.id
+HAVING COUNT(*) > 14;
+
 -- H
 -- I
 SELECT COUNT(DISTINCT Class.ID)
