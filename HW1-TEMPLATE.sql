@@ -47,8 +47,8 @@
 
 
 
---I. How many classes were held in gyms in Reykjavik and have a capacity of either 30 or 40 people, but the capacity was not used fully?
--- Explanation: 
+--I. How many classes were held in gyms in Reykjavik and have a capacity of either 30 or 40 people, but the capacity was not used fully? 216
+-- Explanation: Counted DISTINCT classes by joining 4 Tables Gym, Class, Type and Attends. I USed Class and Gym for the location, Class and type for the 30 or 40 people and Attend to Find out if the max capacity is met or not and put all that in a count so i get 1 row with the result
 
 
 

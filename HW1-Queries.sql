@@ -29,9 +29,18 @@ LEFT JOIN Attends ON Member.ID = Attends.MID
 WHERE Attends.MID IS NULL
 AND IID IS NULL;
 -- G
-
 -- H
 -- I
+SELECT COUNT(DISTINCT Class.ID)
+FROM Class
+JOIN Gym ON Class.GID = Gym.ID
+JOIN Type ON Class.TID = Type.ID
+LEFT JOIN Attends ON Class.ID = Attends.CID
+WHERE Gym.address Like '%Reykjavik%'
+AND Type.capacity in (30, 40)
+AND (SELECT COUNT(*) FROM Attends WHERE Attends.CID = Class.ID) < Type.capacity;
+
+
 -- J
 -- All members --
 SELECT Member.ID, Member.name, MAX(Class.minutes) AS total_time
