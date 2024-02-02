@@ -3,7 +3,7 @@
 
 -- A. How much does the most expensive equipment cost? Return only the price.
 250000
--- Explanation: Simply uses the max func on the Equipment table
+-- Explanation: Simply used the max func on the Equipment table
 
 -- B. 792 members have started the gym in April (of any year). How many members have started the gym in January (of any year)? 899
 
@@ -31,9 +31,8 @@
 
 
 
--- F. How many members have not attended any classes and do not have a personal instructor?
--- Explanation: 
-
+-- F. How many members have not attended any classes and do not have a personal instructor? 6086
+-- Explanation: Used left join to make a set containing the Member Table and Attends Table, then i use IS NULL func to check what is not in the setg
 
 
 -- G. 43 instructors have led 15 or more classes. How many instructors have led 10 or more classes?

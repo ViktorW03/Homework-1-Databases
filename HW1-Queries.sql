@@ -6,8 +6,9 @@ SELECT start_date
 FROM Member
 WHERE EXTRACT(MONTH FROM start_date) = 1;
 -- C --
-SELECT * FROM type WHERE name like '%fit%' OR name like 'fit%' OR name like '%Fit' or name like '%fiT%';
-select * from class where tid='8' or tid = '14' or tid = '15';
+SELECT * FROM type WHERE LOWER(name) like '%fit%';
+
+select * from class where tid='8' or tid = '14' or tid = '15' OR tid = '12';
 -- D
 SELECT COUNT(DISTINCT Class.IID)
 FROM Class
@@ -22,10 +23,16 @@ LEFT JOIN Attends ON Class.ID = Attends.CID
 GROUP BY Type.name
 ORDER BY "Average Rating" DESC;
 -- F
+SELECT COUNT(DISTINCT Member.ID)
+FROM Member
+LEFT JOIN Attends ON Member.ID = Attends.MID
+WHERE Attends.MID IS NULL
+AND IID IS NULL;
 -- G
+
 -- H
 -- I
--- J --
+-- J
 -- All members --
 SELECT Member.ID, Member.name, MAX(Class.minutes) AS total_time
 FROM Class
