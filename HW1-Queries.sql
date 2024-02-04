@@ -37,16 +37,16 @@ HAVING COUNT(*) > 14;
 
 
 -- H
--- For how many members is it true that there exists at least one other member with the same start date and quit date as them? 
--- (Note that if that is true for John and Mary, they should be counted as two results.
--- Note also that two people that have not quit cannot be considered as having the same quit date.)
-select start_date,quit_date, count(*) as counting 
-from (select start_date, quit_date from member 
-where quit_date is NOT null)
- as subquery 
+select sum(count)
+from (
 
-group by start_date,quit_date
-having count(*)>1;
+select start_date, quit_date, count(*) as count from member
+where quit_date is NOT null
+group by start_date, quit_date
+having count(*)>1
+
+);
+ 
 -- I
 SELECT COUNT(DISTINCT Class.ID)
 FROM Class
