@@ -44,7 +44,9 @@
 -- H. For how many members is it true that there exists at least one other member with the same start date and quit date as them? 
 -- (Note that if that is true for John and Mary, they should be counted as two results.
 -- Note also that two people that have not quit cannot be considered as having the same quit date.).
--- Explanation: 
+-- Explanation: we need to count each member that has the same start/quit date more than 1 times 
+-- and quit date can't be null. and we count those members from the member table.
+--Then we just sum up the amount of members and we don´t need to name it.(auto named sum numeric)
 
 
 
