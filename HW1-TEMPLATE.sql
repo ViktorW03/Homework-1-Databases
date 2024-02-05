@@ -2,7 +2,7 @@
 -- Student names:
 
 -- A. How much does the most expensive equipment cost? Return only the price.
-250000
+-- 250.000
 -- Explanation: Simply used the max func on the Equipment table
 
 -- B. 792 members have started the gym in April (of any year). How many members have started the gym in January (of any year)? 899
