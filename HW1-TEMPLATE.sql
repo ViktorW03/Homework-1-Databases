@@ -27,7 +27,8 @@
 -- E. Return the name of every class type along with the average rating that all classes of the type have received. 
 -- The result should be rounded to the nearest integer and ordered from highest to lowest. 
 -- Name the column with the average rating “Average Rating”.
--- Explanation: 
+-- Explanation:  I used the JOIN Class on Type.id and Class.TID. And then LEFT JOIN Attends ON Class.ID = Attends.CID. I was not sure if I should have used the AS for type of class.  But if it is a requirement, i would change the code to this: SELECT Type.name AS „Class Type“
+
 
 
 
@@ -56,5 +57,5 @@
 
 
 -- J. Return the ID and name of the member(s) that attended classes for the longest total time (in minutes) of all members?
--- Explanation: 
+-- Explanation: Selected information from the members and class tables with inner join. I left 2 similar versions of the code because I’m not sure which one answers the question better.
 
