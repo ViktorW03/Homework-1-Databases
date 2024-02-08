@@ -1,0 +1,320 @@
+"id","name","total_time"
+28,"Omar Aegir Olafsson",90
+33,"Hlynur Hjartarson",90
+34,"Eyrun Inga Thordardottir",90
+37,"Sigurdur Aegir Hauksson",90
+41,"Jokull Gunnarsson",90
+42,"Sveinn Tristan Sigurdarson",90
+43,"Haraldur Tomas Ornolfsson",90
+56,"Helga Gudfinna Asgeirsdottir",90
+61,"Haraldur Halldorsson",90
+62,"Harpa Sif Bjarnadottir",90
+64,"Andri Tristan Thorsteinsson",90
+68,"Bjarni Mar Asgeirsson",90
+70,"Kolbrun Eik Skuladottir",90
+86,"Thorhildur Sigurjonsdottir",90
+87,"Thordur Snaer Arason",90
+112,"Bjarni Kristjansson",90
+120,"Brynjar Asmundsson",90
+145,"Hildur Hreidarsdottir",90
+154,"Asta Yr Jonsdottir",90
+162,"Snorri Arason",90
+175,"Vigdis Kristinsdottir",90
+180,"Katrin Hronn Baldursdottir",90
+181,"David Vidar Benediktsson",90
+184,"Elin Run Steindorsdottir",90
+189,"Olof Gudfinna Hreidarsdottir",90
+193,"Gudmundur Mani Gudmundsson",90
+206,"Gisli Hlodversson",90
+208,"Eyglo Bjork Kristmundsdottir",90
+212,"Leifur Runar Arason",90
+213,"Thordur Hallgrimsson",90
+215,"Geir Tomas Thorsson",90
+216,"Hulda Ros Kristinsdottir",90
+217,"Jonatan Breki Davidsson",90
+224,"Katrin Valdimarsdottir",90
+228,"Petur Steinn Thorisson",90
+230,"Egill Mar Birgisson",90
+231,"Gudny Birta Jonsdottir",90
+232,"Katrin Bjorgvinsdottir",90
+237,"Dora Gudbjornsdottir",90
+238,"Jona Sol Baldursdottir",90
+241,"Hafdis Hlin Bergsdottir",90
+242,"Steinunn Sveinsdottir",90
+244,"Kristjan Halldorsson",90
+245,"Ingibjorg Eiriksdottir",90
+247,"Thordur Johannsson",90
+254,"Rakel Larusdottir",90
+255,"Hulda Benediktsdottir",90
+256,"Valdimar Hjartarson",90
+258,"Solveig Yr Baldursdottir",90
+262,"Aldis Hlin Ingolfsdottir",90
+264,"Soffia Osk Ingolfsdottir",90
+265,"Alda Hronn Larusdottir",90
+268,"Gudny Birta Aradottir",90
+269,"Aron Torfi Bjarnason",90
+275,"Baldur Tristan Jonsson",90
+279,"Baldvin Vidar Arason",90
+281,"Katrin Run Thorvaldsdottir",90
+294,"Thordis Kristinsdottir",90
+296,"Gudridur Yr Palsdottir",90
+298,"Gudni Mani Vilhjalmsson",90
+303,"Eyglo Bergsdottir",90
+307,"Jorunn Birta Jonsdottir",90
+310,"Kristinn Kristinsson",90
+315,"Johann Benediktsson",90
+326,"David Breki Sigurdsson",90
+329,"Anna Ros Johannesdottir",90
+339,"Gudrun Bjork Bergsdottir",90
+346,"Leifur Steinn Thorleifsson",90
+365,"Baldur Steinarsson",90
+383,"Gudny Jenny Sveinsdottir",90
+387,"Valgerdur Hronn Larusdottir",90
+390,"Steinunn Hlin Benediktsdottir",90
+396,"Olof Hlin Bjarnadottir",90
+399,"Bryndis Gudfinna Kristinsdottir",90
+407,"Thordur Thorleifsson",90
+414,"Kristjan Benediktsson",90
+423,"Jonina Yr Gudmundsdottir",90
+424,"Gudmundur Torfi Benediktsson",90
+438,"Thordur Mar Thorisson",90
+441,"Arni Snaer Eysteinsson",90
+445,"Petur Mani Hjartarson",90
+446,"Jorunn Yr Gudmundsdottir",90
+448,"Gudrun Run Fridfinnsdottir",90
+452,"Kari Snaer Thorgeirsson",90
+456,"Leifur Daniel Hallgrimsson",90
+457,"Hera Oskarsdottir",90
+462,"Sveinn Daniel Arason",90
+474,"Solveig Ingolfsdottir",90
+476,"Birna Bjorgvinsdottir",90
+484,"Gudbjorg Hronn Steindorsdottir",90
+488,"Gudridur Larusdottir",90
+489,"Robert Skulasson",90
+490,"Solvi Hermannsson",90
+491,"Gunnar Steinn Halldorsson",90
+493,"Thorbjorg Olafsdottir",90
+500,"Kristofer Breki Stefansson",90
+520,"Alda Gudfinna Thorvaldsdottir",90
+531,"Asta Sif Aradottir",90
+536,"Agust Fridgeirsson",90
+538,"Gunnar Jonsson",90
+546,"Eyrun Run Bergsdottir",90
+547,"Jonina Hronn Gudmundsdottir",90
+554,"Sigrun Rut Johannesdottir",90
+558,"Arnfridur Eik Thorleifsdottir",90
+560,"Arni Jonatansson",90
+563,"Gunnlaugur Vidar Birgisson",90
+569,"Gudridur Asgrimsdottir",90
+572,"Thuridur Jenny Halldorsdottir",90
+573,"Kristjan Hlodversson",90
+574,"Oskar Torfi Hermannsson",90
+576,"Bjorg Eik Thorleifsdottir",90
+578,"Anna Osk Skuladottir",90
+580,"Thorgeir Johannsson",90
+582,"Arni Sigurjonsson",90
+583,"Thordur Skulason",90
+585,"Lara Kristjansdottir",90
+586,"Kristinn Thorarinsson",90
+590,"Omar Baldursson",90
+592,"Sveinn Gislason",90
+594,"Thorhildur Birta Kristjansdottir",90
+600,"Solveig Hlin Jakobsdottir",90
+605,"Sveinn Thorarinsson",90
+611,"Johann Thorarinsson",90
+616,"Fridrik Johannsson",90
+620,"Dora Eiriksdottir",90
+622,"Gudridur Hronn Oddsdottir",90
+631,"Hlynur Aegir Hallgrimsson",90
+632,"Gisli Snaer Thorhallsson",90
+633,"Audur Steindorsdottir",90
+639,"Jokull Asgeirsson",90
+641,"Kari Dor Oddsson",90
+643,"Maria Bjork Gudmundsdottir",90
+645,"Geir Aegir Thorsteinsson",90
+647,"Solvi Thor Steinarsson",90
+649,"Thorgeir Benediktsson",90
+653,"Baldur Jonatansson",90
+664,"Alda Asmundsdottir",90
+668,"Ragnheidur Eik Kristjansdottir",90
+673,"Tinna Stefansdottir",90
+678,"Alda Thorarinnsdottir",90
+679,"Leifur Magnusson",90
+680,"Arna Eik Sigurdardottir",90
+685,"Asdis Hlin Asgeirsdottir",90
+686,"Johann Fridgeirsson",90
+687,"Jonina Gunnarsdottir",90
+695,"Oddur Thorisson",90
+718,"Vilhjalmur Benediktsson",90
+724,"Arnar Arnarson",90
+726,"Kolbrun Eik Birgisdottir",90
+730,"Solveig Bjork Asgeirsdottir",90
+731,"Steinunn Hronn Thordardottir",90
+738,"Einar Jonsson",90
+741,"Asdis Sol Sigurjonsdottir",90
+744,"Lovisa Asgrimsdottir",90
+756,"Gudni Hauksson",90
+758,"Steinunn Asmundsdottir",90
+759,"Gudmundur Breki Thorleifsson",90
+764,"Magnus Dor Thorisson",90
+768,"Hlynur Steinn Hlodversson",90
+774,"Skuli Steinn Asmundsson",90
+778,"Agnes Jonsdottir",90
+781,"Arnfridur Bjorgvinsdottir",90
+786,"Baldur Runar Sigurdsson",90
+794,"Katrin Sif Karadottir",90
+795,"Brynjar Dor Gudmundsson",90
+799,"Birna Bjork Asgrimsdottir",90
+809,"Birna Kristmundsdottir",90
+812,"Oliver Asmundsson",90
+822,"Egill Runar Hermannsson",90
+830,"Hermann Orri Thorisson",90
+834,"Dis Valdimarsdottir",90
+836,"Johanna Osk Halldorsdottir",90
+837,"Eyrun Benediktsdottir",90
+844,"Ragnar Torfi Skulasson",90
+851,"Gudny Magnusdottir",90
+854,"Arnfridur Hauksdottir",90
+856,"Arnar Runar Thorleifsson",90
+858,"Marianna Ingolfsdottir",90
+860,"David Runar Fridgeirsson",90
+862,"Asta Ingolfsdottir",90
+865,"Thordur Jonatansson",90
+874,"Thorgerdur Thordardottir",90
+879,"Omar Thordsson",90
+881,"Dora Arnadottir",90
+884,"Katrin Birgisdottir",90
+891,"Thuridur Gudbjornsdottir",90
+895,"Saevar Skulason",90
+896,"Aron Tristan Thorhallsson",90
+905,"Vigdis Gudjonsdottir",90
+908,"Audur Ros Magnusdottir",90
+913,"Soffia Bjork Karadottir",90
+915,"Odinn Orri Halldorsson",90
+919,"Gunnlaugur Mani Kristjansson",90
+926,"Johann Daniel Davidsson",90
+927,"Aron Jonsson",90
+929,"Arnar Magnusson",90
+935,"Hjortur Mar Agustsson",90
+947,"Thorunn Bjorgvinsdottir",90
+948,"Rosa Yr Kristmundsdottir",90
+952,"Arnfridur Benediktsdottir",90
+959,"Gisli Hauksson",90
+964,"Jonina Bjork Kristinsdottir",90
+980,"Kristofer Einarsson",90
+985,"Kristjan Snaer Olafsson",90
+987,"Gudrun Yr Aradottir",90
+991,"Dis Birta Asgeirsdottir",90
+995,"Kari Snaer Baldursson",90
+1003,"Sigridur Oskarsdottir",90
+1004,"Thordur Skulasson",90
+1005,"Johann Tomas Skulason",90
+1010,"Aron Jonsson",90
+1012,"Rakel Stefansdottir",90
+1016,"Ragnar Fridgeirsson",90
+1017,"Hlynur Gislason",90
+1020,"Hermann Snaer Benediktsson",90
+1021,"Kristjan Skulasson",90
+1023,"Thordur Hermannsson",90
+1025,"Gunnhildur Halldorsdottir",90
+1027,"Bryndis Hronn Gudbjornsdottir",90
+1031,"Haraldur Sigurdarson",90
+1036,"Gunnlaugur Gudmundsson",90
+1038,"Ragnheidur Osk Birgisdottir",90
+1040,"Baldur Aegir Ornolfsson",90
+1043,"Brynhildur Sveinsdottir",90
+1048,"Sigurjon Mani Fridgeirsson",90
+1067,"Elinborg Asgeirsdottir",90
+1074,"Jona Gudfinna Johannsdottir",90
+1076,"Tinna Gudfinna Arnarsdottir",90
+1077,"Geir Steinn Thorsteinsson",90
+1078,"Kristinn Torfi Hjartarson",90
+1080,"Sigurdur Thorhallsson",90
+1084,"David Einarsson",90
+1085,"Jorunn Eiriksdottir",90
+1086,"Steinunn Rut Johannsdottir",90
+1088,"Thuridur Yr Palsdottir",90
+1090,"Jon Juliusson",90
+1092,"Harpa Birta Bjarnadottir",90
+1093,"Kari Breki Arnarson",90
+1097,"Gudrun Inga Benediktsdottir",90
+1098,"Sigridur Fridriksdottir",90
+1104,"Snorri Runar Tryggvason",90
+1105,"Hulda Kristjansdottir",90
+1120,"Brynjolfur Daniel Vilhjalmsson",90
+1129,"Dis Sol Jakobsdottir",90
+1130,"Helga Petursdottir",90
+1132,"Thuridur Birta Gudmundsdottir",90
+1133,"Gudny Thorvaldsdottir",90
+1144,"Dora Birta Eiriksdottir",90
+1145,"Eyrun Run Gudbjornsdottir",90
+1155,"Arnar Aegir Fridriksson",90
+1160,"Gudlaug Halldorsdottir",90
+1162,"Petur Skulasson",90
+1166,"Sigurdur Tomas Benediktsson",90
+1167,"Hekla Oskarsdottir",90
+1170,"Jokull Breki Skulasson",90
+1177,"Thorunn Sif Bjornsdottir",90
+1188,"Thorunn Hlin Petursdottir",90
+1201,"Ragnar Magnusson",90
+1206,"David Tomas Hermannsson",90
+1226,"Steinar Jonsson",90
+1227,"Elin Kristmundsdottir",90
+1235,"Hera Eik Aradottir",90
+1236,"Soffia Thorhallsdottir",90
+1241,"Skuli Halldorsson",90
+1242,"Geir Breki Jonasson",90
+1243,"Margret Bjork Valdimarsdottir",90
+1247,"Rosa Yr Halldorsdottir",90
+1250,"Vilhjalmur Ragnarsson",90
+1254,"Robert Valdimarsson",90
+1255,"Snorri Torfi Skulason",90
+1272,"Dis Kristinsdottir",90
+1274,"Ragnar Snaer Palsson",90
+1276,"Dis Osk Thorarinnsdottir",90
+1277,"Eirikur Mar Asgeirsson",90
+1286,"Eyglo Hlin Bjorgvinsdottir",90
+1287,"Hulda Gudfinna Thorleifsdottir",90
+1290,"Brynjar Vidar Thordsson",90
+1291,"Sigridur Eik Sigurjonsdottir",90
+1299,"Bjarni Tristan Thorisson",90
+1303,"Gudny Aradottir",90
+1305,"Odinn Baldursson",90
+1307,"Kristjan Birgisson",90
+1317,"Thorhildur Fridfinnsdottir",90
+1321,"Gardar Tomas Fridgeirsson",90
+1322,"Ragnheidur Sif Benediktsdottir",90
+1324,"Jorunn Birta Thorleifsdottir",90
+1325,"Olof Inga Skuladottir",90
+1327,"Ragnheidur Inga Palsdottir",90
+1333,"Skuli Steinn Stefansson",90
+1338,"Anna Olafsdottir",90
+1345,"David Aegir Oddsson",90
+1361,"Olafur Breki Benediktsson",90
+1374,"Katrin Gudbjornsdottir",90
+1383,"Maria Karadottir",90
+1391,"Kristin Ros Hreidarsdottir",90
+1395,"Thrainn Sigurdsson",90
+1399,"Gunnlaugur Mani Fridgeirsson",90
+1403,"Petur Aegir Sigurjonsson",90
+1407,"Kolbrun Kristinsdottir",90
+1408,"Geir Mar Thordsson",90
+1417,"Baldur Hlodversson",90
+1419,"Jokull Daniel Petursson",90
+1423,"Vigdis Birta Sveinsdottir",90
+1432,"Fridrik Kristinsson",90
+1433,"Hermann Mar Eysteinsson",90
+1437,"Ingibjorg Osk Arnadottir",90
+1439,"Magnus Steinn Bjarnason",90
+1456,"Petur Davidsson",90
+1458,"Gudrun Hronn Karadottir",90
+1460,"Solvi Orri Fridriksson",90
+1468,"Katrin Arnadottir",90
+1469,"Arna Sif Oddsdottir",90
+1470,"Thordis Sif Asgrimsdottir",90
+1471,"Thorgerdur Jenny Thorisdottir",90
+1473,"Dis Hauksdottir",90
+1474,"Sigurjon Snaer Sigurdarson",90
+1484,"Vigdis Osk Birgisdottir",90
+1489,"Katrin Yr Juliusdottir",90
+1493,"Haukur Kristinsson",90
